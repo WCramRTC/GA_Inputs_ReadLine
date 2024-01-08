@@ -127,4 +127,6 @@ Encourage students to experiment:
 | **Submission** | Successful upload to GitHub and correct submission link provided on Canvas. | 10 |
 | **Total** |  | 100 |
 
-This template provides a comprehensive approach to teaching `Console.ReadLine()` in C#, with a focus on user interaction and handling input.
+Citation:
+
+"Guided Assignment - Introduction to Console.ReadLine in C#," created by ChatGPT for educational purposes, OpenAI, accessed January 7, 2024.
